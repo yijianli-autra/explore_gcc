@@ -1,0 +1,19 @@
+
+# Use our custom-configured c++ toolchain.
+build:aurix_gcc --crosstool_top=//toolchain:aurix_gcc_suite
+build:aurix_gcc --cpu=k8
+build:aurix_gcc --copt --std=c++17
+build:aurix_gcc --copt -O3
+build:aurix_gcc --copt -w
+# build:aurix_gcc --copt -Wall
+build:aurix_gcc --copt -fno-strict-aliasing
+build:aurix_gcc --copt -c
+build:aurix_gcc --copt -fmessage-length=0
+build:aurix_gcc --copt -fno-common
+# build:aurix_gcc --copt -fstrict-volatile-bitfields
+build:aurix_gcc --copt -fdata-sections
+build:aurix_gcc --copt -ffunction-sections
+build:aurix_gcc --copt -mtc162
+build:aurix_gcc --copt -MMD
+build:aurix_gcc --copt -MP
+# build:aurix_gcc --copt -D__HIGHTEC__

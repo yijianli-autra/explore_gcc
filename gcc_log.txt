@@ -1,0 +1,1081 @@
+09:42:55 **** Build of configuration TriCore Release (GCC) for project explore_gcc ****
+make --output-sync -j16 all 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxAsclin_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxAsclin_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxAsclin_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxAsclin_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxAsclin_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxAsclin_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxDmu_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxDmu_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxDmu_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxDmu_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxDmu_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxDmu_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCcu6_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCcu6_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCcu6_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCcu6_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCcu6_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCcu6_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCan_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCan_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCan_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCan_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCan_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCan_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEdsadc_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEdsadc_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEdsadc_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEdsadc_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEdsadc_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEdsadc_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEray_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEray_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEray_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEray_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEray_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEray_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGpt12_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGpt12_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGpt12_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGpt12_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGpt12_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGpt12_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEvadc_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEvadc_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEvadc_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEvadc_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEvadc_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEvadc_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGeth_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGeth_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGeth_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGeth_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGeth_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGeth_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxHspdm_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxHspdm_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxHspdm_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxHspdm_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxHspdm_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxHspdm_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxI2c_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxI2c_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxI2c_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxI2c_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxI2c_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxI2c_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxMsc_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxMsc_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxMsc_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxMsc_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxMsc_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxMsc_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPms_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPms_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPms_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPms_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPms_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPms_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPort_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPort_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPort_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPort_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPort_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPort_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5s_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5s_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5s_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5s_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5s_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5s_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxRif_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxRif_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxRif_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxRif_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxRif_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxRif_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxScu_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxScu_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxScu_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxScu_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxScu_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxScu_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSdmmc_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSdmmc_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSdmmc_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSdmmc_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSdmmc_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSdmmc_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxQspi_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxQspi_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxQspi_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxQspi_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxQspi_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxQspi_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Lib/InternalMux/Ifx_InternalMux.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Lib/InternalMux/Ifx_InternalMux.d" -MT"Libraries/iLLD/TC39B/Tricore/_Lib/InternalMux/Ifx_InternalMux.o" -o "Libraries/iLLD/TC39B/Tricore/_Lib/InternalMux/Ifx_InternalMux.o" "../Libraries/iLLD/TC39B/Tricore/_Lib/InternalMux/Ifx_InternalMux.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Lib/InternalMux/Ifx_InternalMux.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.asm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.asm.d" -MT"Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.asm.o" -o "Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.asm.o" "../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.asm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.asm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSmu_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSmu_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSmu_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSmu_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSmu_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSmu_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxAsclin_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxAsclin_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxAsclin_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxAsclin_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxAsclin_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxAsclin_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCcu6_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCcu6_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCcu6_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxCcu6_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCcu6_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCcu6_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSent_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSent_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSent_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSent_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSent_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSent_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCan_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCan_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCan_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxCan_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCan_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCan_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCif_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCif_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCif_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxCif_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCif_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCif_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxDma_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxDma_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxDma_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxDma_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxDma_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxDma_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEmem_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxEmem_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxEmem_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxEmem_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEmem_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEmem_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCpu_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCpu_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxCpu_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxCpu_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCpu_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxCpu_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEray_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxEray_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxEray_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxEray_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEray_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEray_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.d" -MT"Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.o" -o "Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.o" "../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEvadc_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxEvadc_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxEvadc_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxEvadc_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEvadc_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxEvadc_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxHspdm_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxHspdm_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxHspdm_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxHspdm_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxHspdm_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxHspdm_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxGeth_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxGeth_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxGeth_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxGeth_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxGeth_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxGeth_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxHssl_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxHssl_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxHssl_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxHssl_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxHssl_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxHssl_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxFlash_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxFlash_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxFlash_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxFlash_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxFlash_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxFlash_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxI2c_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxI2c_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxI2c_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxI2c_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxI2c_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxI2c_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxMsc_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxMsc_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxMsc_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxMsc_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxMsc_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxMsc_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGtm_PinMap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGtm_PinMap.d" -MT"Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGtm_PinMap.o" -o "Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGtm_PinMap.o" "../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGtm_PinMap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGtm_PinMap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxPsi5_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxPsi5_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxPsi5_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxPsi5_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxPsi5_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxPsi5_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxPort_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxPort_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxPort_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxPort_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxPort_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxPort_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxScu_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxScu_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxScu_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxScu_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxScu_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxScu_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxQspi_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxQspi_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxQspi_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxQspi_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxQspi_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxQspi_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxRif_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxRif_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxRif_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxRif_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxRif_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxRif_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSent_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSent_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSent_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxSent_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSent_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSent_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSmu_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSmu_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSmu_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxSmu_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSmu_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSmu_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxGtm_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxGtm_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxGtm_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxGtm_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxGtm_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxGtm_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSrc_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSrc_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSrc_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxSrc_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSrc_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSrc_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSpu_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSpu_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxSpu_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxSpu_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSpu_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxSpu_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxStm_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxStm_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxStm_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxStm_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxStm_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxStm_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Src/Std/IfxSrc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Src/Std/IfxSrc.d" -MT"Libraries/iLLD/TC39B/Tricore/Src/Std/IfxSrc.o" -o "Libraries/iLLD/TC39B/Tricore/Src/Std/IfxSrc.o" "../Libraries/iLLD/TC39B/Tricore/Src/Std/IfxSrc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Src/Std/IfxSrc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxMtu_cfg.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Impl/IfxMtu_cfg.d" -MT"Libraries/iLLD/TC39B/Tricore/_Impl/IfxMtu_cfg.o" -o "Libraries/iLLD/TC39B/Tricore/_Impl/IfxMtu_cfg.o" "../Libraries/iLLD/TC39B/Tricore/_Impl/IfxMtu_cfg.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Impl/IfxMtu_cfg.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_Fifo.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_Fifo.d" -MT"Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_Fifo.o" -o "Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_Fifo.o" "../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_Fifo.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_Fifo.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmuStdby.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmuStdby.d" -MT"Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmuStdby.o" -o "Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmuStdby.o" "../Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmuStdby.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmuStdby.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Stm/Timer/IfxStm_Timer.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Stm/Timer/IfxStm_Timer.d" -MT"Libraries/iLLD/TC39B/Tricore/Stm/Timer/IfxStm_Timer.o" -o "Libraries/iLLD/TC39B/Tricore/Stm/Timer/IfxStm_Timer.o" "../Libraries/iLLD/TC39B/Tricore/Stm/Timer/IfxStm_Timer.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Stm/Timer/IfxStm_Timer.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmu.d" -MT"Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmu.o" -o "Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmu.o" "../Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Smu/Smu/IfxSmu_Smu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Smu/Smu/IfxSmu_Smu.d" -MT"Libraries/iLLD/TC39B/Tricore/Smu/Smu/IfxSmu_Smu.o" -o "Libraries/iLLD/TC39B/Tricore/Smu/Smu/IfxSmu_Smu.o" "../Libraries/iLLD/TC39B/Tricore/Smu/Smu/IfxSmu_Smu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Smu/Smu/IfxSmu_Smu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Sent/Std/IfxSent.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Sent/Std/IfxSent.d" -MT"Libraries/iLLD/TC39B/Tricore/Sent/Std/IfxSent.o" -o "Libraries/iLLD/TC39B/Tricore/Sent/Std/IfxSent.o" "../Libraries/iLLD/TC39B/Tricore/Sent/Std/IfxSent.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Sent/Std/IfxSent.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Stm/Std/IfxStm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Stm/Std/IfxStm.d" -MT"Libraries/iLLD/TC39B/Tricore/Stm/Std/IfxStm.o" -o "Libraries/iLLD/TC39B/Tricore/Stm/Std/IfxStm.o" "../Libraries/iLLD/TC39B/Tricore/Stm/Std/IfxStm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Stm/Std/IfxStm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuLbist.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuLbist.d" -MT"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuLbist.o" -o "Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuLbist.o" "../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuLbist.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuLbist.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuRcu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuRcu.d" -MT"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuRcu.o" -o "Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuRcu.o" "../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuRcu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuRcu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Sent/Sent/IfxSent_Sent.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Sent/Sent/IfxSent_Sent.d" -MT"Libraries/iLLD/TC39B/Tricore/Sent/Sent/IfxSent_Sent.o" -o "Libraries/iLLD/TC39B/Tricore/Sent/Sent/IfxSent_Sent.o" "../Libraries/iLLD/TC39B/Tricore/Sent/Sent/IfxSent_Sent.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Sent/Sent/IfxSent_Sent.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Rif/Std/IfxRif.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Rif/Std/IfxRif.d" -MT"Libraries/iLLD/TC39B/Tricore/Rif/Std/IfxRif.o" -o "Libraries/iLLD/TC39B/Tricore/Rif/Std/IfxRif.o" "../Libraries/iLLD/TC39B/Tricore/Rif/Std/IfxRif.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Rif/Std/IfxRif.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Sdmmc/Std/IfxSdmmc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Sdmmc/Std/IfxSdmmc.d" -MT"Libraries/iLLD/TC39B/Tricore/Sdmmc/Std/IfxSdmmc.o" -o "Libraries/iLLD/TC39B/Tricore/Sdmmc/Std/IfxSdmmc.o" "../Libraries/iLLD/TC39B/Tricore/Sdmmc/Std/IfxSdmmc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Sdmmc/Std/IfxSdmmc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Psi5s/Std/IfxPsi5s.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Psi5s/Std/IfxPsi5s.d" -MT"Libraries/iLLD/TC39B/Tricore/Psi5s/Std/IfxPsi5s.o" -o "Libraries/iLLD/TC39B/Tricore/Psi5s/Std/IfxPsi5s.o" "../Libraries/iLLD/TC39B/Tricore/Psi5s/Std/IfxPsi5s.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Psi5s/Std/IfxPsi5s.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Port/Io/IfxPort_Io.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Port/Io/IfxPort_Io.d" -MT"Libraries/iLLD/TC39B/Tricore/Port/Io/IfxPort_Io.o" -o "Libraries/iLLD/TC39B/Tricore/Port/Io/IfxPort_Io.o" "../Libraries/iLLD/TC39B/Tricore/Port/Io/IfxPort_Io.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Port/Io/IfxPort_Io.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Psi5/Std/IfxPsi5.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Psi5/Std/IfxPsi5.d" -MT"Libraries/iLLD/TC39B/Tricore/Psi5/Std/IfxPsi5.o" -o "Libraries/iLLD/TC39B/Tricore/Psi5/Std/IfxPsi5.o" "../Libraries/iLLD/TC39B/Tricore/Psi5/Std/IfxPsi5.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Psi5/Std/IfxPsi5.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Rif/Rif/IfxRif_Rif.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Rif/Rif/IfxRif_Rif.d" -MT"Libraries/iLLD/TC39B/Tricore/Rif/Rif/IfxRif_Rif.o" -o "Libraries/iLLD/TC39B/Tricore/Rif/Rif/IfxRif_Rif.o" "../Libraries/iLLD/TC39B/Tricore/Rif/Rif/IfxRif_Rif.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Rif/Rif/IfxRif_Rif.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuEru.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuEru.d" -MT"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuEru.o" -o "Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuEru.o" "../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuEru.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuEru.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Spu/Std/IfxSpu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Spu/Std/IfxSpu.d" -MT"Libraries/iLLD/TC39B/Tricore/Spu/Std/IfxSpu.o" -o "Libraries/iLLD/TC39B/Tricore/Spu/Std/IfxSpu.o" "../Libraries/iLLD/TC39B/Tricore/Spu/Std/IfxSpu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Spu/Std/IfxSpu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Port/Std/IfxPort.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Port/Std/IfxPort.d" -MT"Libraries/iLLD/TC39B/Tricore/Port/Std/IfxPort.o" -o "Libraries/iLLD/TC39B/Tricore/Port/Std/IfxPort.o" "../Libraries/iLLD/TC39B/Tricore/Port/Std/IfxPort.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Port/Std/IfxPort.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuWdt.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuWdt.d" -MT"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuWdt.o" -o "Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuWdt.o" "../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuWdt.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuWdt.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Qspi/Std/IfxQspi.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Qspi/Std/IfxQspi.d" -MT"Libraries/iLLD/TC39B/Tricore/Qspi/Std/IfxQspi.o" -o "Libraries/iLLD/TC39B/Tricore/Qspi/Std/IfxQspi.o" "../Libraries/iLLD/TC39B/Tricore/Qspi/Std/IfxQspi.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Qspi/Std/IfxQspi.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.d" -MT"Libraries/iLLD/TC39B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.o" -o "Libraries/iLLD/TC39B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.o" "../Libraries/iLLD/TC39B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsEvr.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsEvr.d" -MT"Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsEvr.o" -o "Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsEvr.o" "../Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsEvr.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsEvr.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Qspi/SpiSlave/IfxQspi_SpiSlave.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Qspi/SpiSlave/IfxQspi_SpiSlave.d" -MT"Libraries/iLLD/TC39B/Tricore/Qspi/SpiSlave/IfxQspi_SpiSlave.o" -o "Libraries/iLLD/TC39B/Tricore/Qspi/SpiSlave/IfxQspi_SpiSlave.o" "../Libraries/iLLD/TC39B/Tricore/Qspi/SpiSlave/IfxQspi_SpiSlave.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Qspi/SpiSlave/IfxQspi_SpiSlave.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Sdmmc/Emmc/IfxSdmmc_Emmc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Sdmmc/Emmc/IfxSdmmc_Emmc.d" -MT"Libraries/iLLD/TC39B/Tricore/Sdmmc/Emmc/IfxSdmmc_Emmc.o" -o "Libraries/iLLD/TC39B/Tricore/Sdmmc/Emmc/IfxSdmmc_Emmc.o" "../Libraries/iLLD/TC39B/Tricore/Sdmmc/Emmc/IfxSdmmc_Emmc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Sdmmc/Emmc/IfxSdmmc_Emmc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Iom/Std/IfxIom.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Iom/Std/IfxIom.d" -MT"Libraries/iLLD/TC39B/Tricore/Iom/Std/IfxIom.o" -o "Libraries/iLLD/TC39B/Tricore/Iom/Std/IfxIom.o" "../Libraries/iLLD/TC39B/Tricore/Iom/Std/IfxIom.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Iom/Std/IfxIom.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Msc/Std/IfxMsc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Msc/Std/IfxMsc.d" -MT"Libraries/iLLD/TC39B/Tricore/Msc/Std/IfxMsc.o" -o "Libraries/iLLD/TC39B/Tricore/Msc/Std/IfxMsc.o" "../Libraries/iLLD/TC39B/Tricore/Msc/Std/IfxMsc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Msc/Std/IfxMsc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Psi5/Psi5/IfxPsi5_Psi5.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Psi5/Psi5/IfxPsi5_Psi5.d" -MT"Libraries/iLLD/TC39B/Tricore/Psi5/Psi5/IfxPsi5_Psi5.o" -o "Libraries/iLLD/TC39B/Tricore/Psi5/Psi5/IfxPsi5_Psi5.o" "../Libraries/iLLD/TC39B/Tricore/Psi5/Psi5/IfxPsi5_Psi5.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Psi5/Psi5/IfxPsi5_Psi5.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Iom/Iom/IfxIom_Iom.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Iom/Iom/IfxIom_Iom.d" -MT"Libraries/iLLD/TC39B/Tricore/Iom/Iom/IfxIom_Iom.o" -o "Libraries/iLLD/TC39B/Tricore/Iom/Iom/IfxIom_Iom.o" "../Libraries/iLLD/TC39B/Tricore/Iom/Iom/IfxIom_Iom.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Iom/Iom/IfxIom_Iom.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Iom/Driver/IfxIom_Driver.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Iom/Driver/IfxIom_Driver.d" -MT"Libraries/iLLD/TC39B/Tricore/Iom/Driver/IfxIom_Driver.o" -o "Libraries/iLLD/TC39B/Tricore/Iom/Driver/IfxIom_Driver.o" "../Libraries/iLLD/TC39B/Tricore/Iom/Driver/IfxIom_Driver.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Iom/Driver/IfxIom_Driver.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Hssl/Std/IfxHssl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Hssl/Std/IfxHssl.d" -MT"Libraries/iLLD/TC39B/Tricore/Hssl/Std/IfxHssl.o" -o "Libraries/iLLD/TC39B/Tricore/Hssl/Std/IfxHssl.o" "../Libraries/iLLD/TC39B/Tricore/Hssl/Std/IfxHssl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Hssl/Std/IfxHssl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Hspdm/Std/IfxHspdm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Hspdm/Std/IfxHspdm.d" -MT"Libraries/iLLD/TC39B/Tricore/Hspdm/Std/IfxHspdm.o" -o "Libraries/iLLD/TC39B/Tricore/Hspdm/Std/IfxHspdm.o" "../Libraries/iLLD/TC39B/Tricore/Hspdm/Std/IfxHspdm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Hspdm/Std/IfxHspdm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/I2c/Std/IfxI2c.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/I2c/Std/IfxI2c.d" -MT"Libraries/iLLD/TC39B/Tricore/I2c/Std/IfxI2c.o" -o "Libraries/iLLD/TC39B/Tricore/I2c/Std/IfxI2c.o" "../Libraries/iLLD/TC39B/Tricore/I2c/Std/IfxI2c.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/I2c/Std/IfxI2c.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Msc/Msc/IfxMsc_Msc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Msc/Msc/IfxMsc_Msc.d" -MT"Libraries/iLLD/TC39B/Tricore/Msc/Msc/IfxMsc_Msc.o" -o "Libraries/iLLD/TC39B/Tricore/Msc/Msc/IfxMsc_Msc.o" "../Libraries/iLLD/TC39B/Tricore/Msc/Msc/IfxMsc_Msc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Msc/Msc/IfxMsc_Msc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/I2c/I2c/IfxI2c_I2c.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/I2c/I2c/IfxI2c_I2c.d" -MT"Libraries/iLLD/TC39B/Tricore/I2c/I2c/IfxI2c_I2c.o" -o "Libraries/iLLD/TC39B/Tricore/I2c/I2c/IfxI2c_I2c.o" "../Libraries/iLLD/TC39B/Tricore/I2c/I2c/IfxI2c_I2c.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/I2c/I2c/IfxI2c_I2c.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Hssl/Hssl/IfxHssl_Hssl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Hssl/Hssl/IfxHssl_Hssl.d" -MT"Libraries/iLLD/TC39B/Tricore/Hssl/Hssl/IfxHssl_Hssl.o" -o "Libraries/iLLD/TC39B/Tricore/Hssl/Hssl/IfxHssl_Hssl.o" "../Libraries/iLLD/TC39B/Tricore/Hssl/Hssl/IfxHssl_Hssl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Hssl/Hssl/IfxHssl_Hssl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsPm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsPm.d" -MT"Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsPm.o" -o "Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsPm.o" "../Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsPm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsPm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.c
+../Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.c: In function 'IfxSdmmc_Sd_switchToBusWidth4':
+Invoking: AURIX GCC Compiler
+../Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.c:924:71: warning: 'cardCpblty' may be used uninitialized [-Wmaybe-uninitialized]
+  924 |         if (((cardCpblty >> IFXSDMMC_SDIO_CCCR_CARDCPBLTY_LSC_BITPOS) & (uint8)0x3) == 0x1)
+      |             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~
+../Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.c: In function 'IfxSdmmc_Sd_switchToHighSpeed':
+../Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.c:964:21: warning: 'busSpeedSel' may be used uninitialized [-Wmaybe-uninitialized]
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.d" -MT"Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.o" -o "Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.o" "../Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.c"
+  964 |     uint8           busSpeedSel;
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.c
+      |                     ^~~~~~~~~~~
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tim/Timer/IfxGtm_Tim_Timer.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Tim/Timer/IfxGtm_Tim_Timer.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Tim/Timer/IfxGtm_Tim_Timer.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Tim/Timer/IfxGtm_Tim_Timer.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Tim/Timer/IfxGtm_Tim_Timer.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tim/Timer/IfxGtm_Tim_Timer.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Trig/IfxGtm_Trig.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Trig/IfxGtm_Trig.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Trig/IfxGtm_Trig.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Trig/IfxGtm_Trig.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Trig/IfxGtm_Trig.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Trig/IfxGtm_Trig.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Qspi/SpiMaster/IfxQspi_SpiMaster.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Qspi/SpiMaster/IfxQspi_SpiMaster.d" -MT"Libraries/iLLD/TC39B/Tricore/Qspi/SpiMaster/IfxQspi_SpiMaster.o" -o "Libraries/iLLD/TC39B/Tricore/Qspi/SpiMaster/IfxQspi_SpiMaster.o" "../Libraries/iLLD/TC39B/Tricore/Qspi/SpiMaster/IfxQspi_SpiMaster.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Qspi/SpiMaster/IfxQspi_SpiMaster.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Pwm/IfxGtm_Tom_Pwm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Pwm/IfxGtm_Tom_Pwm.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Pwm/IfxGtm_Tom_Pwm.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Pwm/IfxGtm_Tom_Pwm.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Pwm/IfxGtm_Tom_Pwm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Pwm/IfxGtm_Tom_Pwm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Mtu/Std/IfxMtu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Mtu/Std/IfxMtu.d" -MT"Libraries/iLLD/TC39B/Tricore/Mtu/Std/IfxMtu.o" -o "Libraries/iLLD/TC39B/Tricore/Mtu/Std/IfxMtu.o" "../Libraries/iLLD/TC39B/Tricore/Mtu/Std/IfxMtu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Mtu/Std/IfxMtu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dpll.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dpll.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dpll.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dpll.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dpll.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dpll.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tbu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tbu.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tbu.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tbu.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tbu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tbu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Timer/IfxGtm_Tom_Timer.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Timer/IfxGtm_Tom_Timer.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Timer/IfxGtm_Tom_Timer.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Timer/IfxGtm_Tom_Timer.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Timer/IfxGtm_Tom_Timer.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Timer/IfxGtm_Tom_Timer.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Psm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Psm.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Psm.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Psm.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Psm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Psm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dtm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dtm.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dtm.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dtm.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dtm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dtm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuCcu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuCcu.d" -MT"Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuCcu.o" -o "Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuCcu.o" "../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuCcu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuCcu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tim/In/IfxGtm_Tim_In.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Tim/In/IfxGtm_Tim_In.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Tim/In/IfxGtm_Tim_In.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Tim/In/IfxGtm_Tim_In.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Tim/In/IfxGtm_Tim_In.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tim/In/IfxGtm_Tim_In.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Spe.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Spe.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Spe.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Spe.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Spe.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Spe.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tim.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tim.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tim.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tim.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tim.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tim.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tom.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tom.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tom.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tom.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tom.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tom.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Cmu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Cmu.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Cmu.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Cmu.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Cmu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Cmu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Flash/Std/IfxFlash.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Flash/Std/IfxFlash.d" -MT"Libraries/iLLD/TC39B/Tricore/Flash/Std/IfxFlash.o" -o "Libraries/iLLD/TC39B/Tricore/Flash/Std/IfxFlash.o" "../Libraries/iLLD/TC39B/Tricore/Flash/Std/IfxFlash.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Flash/Std/IfxFlash.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Fce/Std/IfxFce.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Fce/Std/IfxFce.d" -MT"Libraries/iLLD/TC39B/Tricore/Fce/Std/IfxFce.o" -o "Libraries/iLLD/TC39B/Tricore/Fce/Std/IfxFce.o" "../Libraries/iLLD/TC39B/Tricore/Fce/Std/IfxFce.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Fce/Std/IfxFce.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/PwmHl/IfxGtm_Tom_PwmHl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/PwmHl/IfxGtm_Tom_PwmHl.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/PwmHl/IfxGtm_Tom_PwmHl.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Tom/PwmHl/IfxGtm_Tom_PwmHl.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/PwmHl/IfxGtm_Tom_PwmHl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/PwmHl/IfxGtm_Tom_PwmHl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Dtm_PwmHl/IfxGtm_Tom_Dtm_PwmHl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Dtm_PwmHl/IfxGtm_Tom_Dtm_PwmHl.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Dtm_PwmHl/IfxGtm_Tom_Dtm_PwmHl.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Dtm_PwmHl/IfxGtm_Tom_Dtm_PwmHl.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Dtm_PwmHl/IfxGtm_Tom_Dtm_PwmHl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Dtm_PwmHl/IfxGtm_Tom_Dtm_PwmHl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Timer/IfxGtm_Atom_Timer.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Timer/IfxGtm_Atom_Timer.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Timer/IfxGtm_Atom_Timer.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Timer/IfxGtm_Atom_Timer.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Timer/IfxGtm_Atom_Timer.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Timer/IfxGtm_Atom_Timer.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Atom.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Atom.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Atom.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Atom.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Atom.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Atom.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Pwm/IfxGtm_Atom_Pwm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Pwm/IfxGtm_Atom_Pwm.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Pwm/IfxGtm_Atom_Pwm.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Pwm/IfxGtm_Atom_Pwm.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Pwm/IfxGtm_Atom_Pwm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Pwm/IfxGtm_Atom_Pwm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gpt12/Std/IfxGpt12.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gpt12/Std/IfxGpt12.d" -MT"Libraries/iLLD/TC39B/Tricore/Gpt12/Std/IfxGpt12.o" -o "Libraries/iLLD/TC39B/Tricore/Gpt12/Std/IfxGpt12.o" "../Libraries/iLLD/TC39B/Tricore/Gpt12/Std/IfxGpt12.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gpt12/Std/IfxGpt12.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Emem/Std/IfxEmem.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Emem/Std/IfxEmem.d" -MT"Libraries/iLLD/TC39B/Tricore/Emem/Std/IfxEmem.o" -o "Libraries/iLLD/TC39B/Tricore/Emem/Std/IfxEmem.o" "../Libraries/iLLD/TC39B/Tricore/Emem/Std/IfxEmem.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Emem/Std/IfxEmem.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gpt12/IncrEnc/IfxGpt12_IncrEnc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gpt12/IncrEnc/IfxGpt12_IncrEnc.d" -MT"Libraries/iLLD/TC39B/Tricore/Gpt12/IncrEnc/IfxGpt12_IncrEnc.o" -o "Libraries/iLLD/TC39B/Tricore/Gpt12/IncrEnc/IfxGpt12_IncrEnc.o" "../Libraries/iLLD/TC39B/Tricore/Gpt12/IncrEnc/IfxGpt12_IncrEnc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gpt12/IncrEnc/IfxGpt12_IncrEnc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Fce/Crc/IfxFce_Crc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Fce/Crc/IfxFce_Crc.d" -MT"Libraries/iLLD/TC39B/Tricore/Fce/Crc/IfxFce_Crc.o" -o "Libraries/iLLD/TC39B/Tricore/Fce/Crc/IfxFce_Crc.o" "../Libraries/iLLD/TC39B/Tricore/Fce/Crc/IfxFce_Crc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Fce/Crc/IfxFce_Crc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Geth/Std/IfxGeth.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Geth/Std/IfxGeth.d" -MT"Libraries/iLLD/TC39B/Tricore/Geth/Std/IfxGeth.o" -o "Libraries/iLLD/TC39B/Tricore/Geth/Std/IfxGeth.o" "../Libraries/iLLD/TC39B/Tricore/Geth/Std/IfxGeth.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Geth/Std/IfxGeth.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ebu/Std/IfxEbu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ebu/Std/IfxEbu.d" -MT"Libraries/iLLD/TC39B/Tricore/Ebu/Std/IfxEbu.o" -o "Libraries/iLLD/TC39B/Tricore/Ebu/Std/IfxEbu.o" "../Libraries/iLLD/TC39B/Tricore/Ebu/Std/IfxEbu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ebu/Std/IfxEbu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Eray/Std/IfxEray.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Eray/Std/IfxEray.d" -MT"Libraries/iLLD/TC39B/Tricore/Eray/Std/IfxEray.o" -o "Libraries/iLLD/TC39B/Tricore/Eray/Std/IfxEray.o" "../Libraries/iLLD/TC39B/Tricore/Eray/Std/IfxEray.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Eray/Std/IfxEray.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Dts/Std/IfxDts.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Dts/Std/IfxDts.d" -MT"Libraries/iLLD/TC39B/Tricore/Dts/Std/IfxDts.o" -o "Libraries/iLLD/TC39B/Tricore/Dts/Std/IfxDts.o" "../Libraries/iLLD/TC39B/Tricore/Dts/Std/IfxDts.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Dts/Std/IfxDts.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Evadc/Std/IfxEvadc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Evadc/Std/IfxEvadc.d" -MT"Libraries/iLLD/TC39B/Tricore/Evadc/Std/IfxEvadc.o" -o "Libraries/iLLD/TC39B/Tricore/Evadc/Std/IfxEvadc.o" "../Libraries/iLLD/TC39B/Tricore/Evadc/Std/IfxEvadc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Evadc/Std/IfxEvadc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Edsadc/Std/IfxEdsadc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Edsadc/Std/IfxEdsadc.d" -MT"Libraries/iLLD/TC39B/Tricore/Edsadc/Std/IfxEdsadc.o" -o "Libraries/iLLD/TC39B/Tricore/Edsadc/Std/IfxEdsadc.o" "../Libraries/iLLD/TC39B/Tricore/Edsadc/Std/IfxEdsadc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Edsadc/Std/IfxEdsadc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/PwmHl/IfxGtm_Atom_PwmHl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/PwmHl/IfxGtm_Atom_PwmHl.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/PwmHl/IfxGtm_Atom_PwmHl.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Atom/PwmHl/IfxGtm_Atom_PwmHl.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/PwmHl/IfxGtm_Atom_PwmHl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/PwmHl/IfxGtm_Atom_PwmHl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Dts/Dts/IfxDts_Dts.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Dts/Dts/IfxDts_Dts.d" -MT"Libraries/iLLD/TC39B/Tricore/Dts/Dts/IfxDts_Dts.o" -o "Libraries/iLLD/TC39B/Tricore/Dts/Dts/IfxDts_Dts.o" "../Libraries/iLLD/TC39B/Tricore/Dts/Dts/IfxDts_Dts.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Dts/Dts/IfxDts_Dts.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Dtm_PwmHl/IfxGtm_Atom_Dtm_PwmHl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Dtm_PwmHl/IfxGtm_Atom_Dtm_PwmHl.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Dtm_PwmHl/IfxGtm_Atom_Dtm_PwmHl.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Dtm_PwmHl/IfxGtm_Atom_Dtm_PwmHl.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Dtm_PwmHl/IfxGtm_Atom_Dtm_PwmHl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Dtm_PwmHl/IfxGtm_Atom_Dtm_PwmHl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ebu/Sram/IfxEbu_Sram.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ebu/Sram/IfxEbu_Sram.d" -MT"Libraries/iLLD/TC39B/Tricore/Ebu/Sram/IfxEbu_Sram.o" -o "Libraries/iLLD/TC39B/Tricore/Ebu/Sram/IfxEbu_Sram.o" "../Libraries/iLLD/TC39B/Tricore/Ebu/Sram/IfxEbu_Sram.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ebu/Sram/IfxEbu_Sram.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Dma/Std/IfxDma.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Dma/Std/IfxDma.d" -MT"Libraries/iLLD/TC39B/Tricore/Dma/Std/IfxDma.o" -o "Libraries/iLLD/TC39B/Tricore/Dma/Std/IfxDma.o" "../Libraries/iLLD/TC39B/Tricore/Dma/Std/IfxDma.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Dma/Std/IfxDma.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Edsadc/Edsadc/IfxEdsadc_Edsadc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Edsadc/Edsadc/IfxEdsadc_Edsadc.d" -MT"Libraries/iLLD/TC39B/Tricore/Edsadc/Edsadc/IfxEdsadc_Edsadc.o" -o "Libraries/iLLD/TC39B/Tricore/Edsadc/Edsadc/IfxEdsadc_Edsadc.o" "../Libraries/iLLD/TC39B/Tricore/Edsadc/Edsadc/IfxEdsadc_Edsadc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Edsadc/Edsadc/IfxEdsadc_Edsadc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSpansion/IfxEbu_BFlashSpansion.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSpansion/IfxEbu_BFlashSpansion.d" -MT"Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSpansion/IfxEbu_BFlashSpansion.o" -o "Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSpansion/IfxEbu_BFlashSpansion.o" "../Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSpansion/IfxEbu_BFlashSpansion.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSpansion/IfxEbu_BFlashSpansion.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ebu/Dram/IfxEbu_Dram.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ebu/Dram/IfxEbu_Dram.d" -MT"Libraries/iLLD/TC39B/Tricore/Ebu/Dram/IfxEbu_Dram.o" -o "Libraries/iLLD/TC39B/Tricore/Ebu/Dram/IfxEbu_Dram.o" "../Libraries/iLLD/TC39B/Tricore/Ebu/Dram/IfxEbu_Dram.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ebu/Dram/IfxEbu_Dram.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSt/IfxEbu_BFlashSt.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSt/IfxEbu_BFlashSt.d" -MT"Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSt/IfxEbu_BFlashSt.o" -o "Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSt/IfxEbu_BFlashSt.o" "../Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSt/IfxEbu_BFlashSt.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSt/IfxEbu_BFlashSt.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Cpu/Irq/IfxCpu_Irq.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Cpu/Irq/IfxCpu_Irq.d" -MT"Libraries/iLLD/TC39B/Tricore/Cpu/Irq/IfxCpu_Irq.o" -o "Libraries/iLLD/TC39B/Tricore/Cpu/Irq/IfxCpu_Irq.o" "../Libraries/iLLD/TC39B/Tricore/Cpu/Irq/IfxCpu_Irq.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Cpu/Irq/IfxCpu_Irq.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Eray/Eray/IfxEray_Eray.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Eray/Eray/IfxEray_Eray.d" -MT"Libraries/iLLD/TC39B/Tricore/Eray/Eray/IfxEray_Eray.o" -o "Libraries/iLLD/TC39B/Tricore/Eray/Eray/IfxEray_Eray.o" "../Libraries/iLLD/TC39B/Tricore/Eray/Eray/IfxEray_Eray.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Eray/Eray/IfxEray_Eray.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Evadc/Adc/IfxEvadc_Adc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Evadc/Adc/IfxEvadc_Adc.d" -MT"Libraries/iLLD/TC39B/Tricore/Evadc/Adc/IfxEvadc_Adc.o" -o "Libraries/iLLD/TC39B/Tricore/Evadc/Adc/IfxEvadc_Adc.o" "../Libraries/iLLD/TC39B/Tricore/Evadc/Adc/IfxEvadc_Adc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Evadc/Adc/IfxEvadc_Adc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Convctrl/Std/IfxConvctrl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Convctrl/Std/IfxConvctrl.d" -MT"Libraries/iLLD/TC39B/Tricore/Convctrl/Std/IfxConvctrl.o" -o "Libraries/iLLD/TC39B/Tricore/Convctrl/Std/IfxConvctrl.o" "../Libraries/iLLD/TC39B/Tricore/Convctrl/Std/IfxConvctrl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Convctrl/Std/IfxConvctrl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Cpu/Trap/IfxCpu_Trap.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Cpu/Trap/IfxCpu_Trap.d" -MT"Libraries/iLLD/TC39B/Tricore/Cpu/Trap/IfxCpu_Trap.o" -o "Libraries/iLLD/TC39B/Tricore/Cpu/Trap/IfxCpu_Trap.o" "../Libraries/iLLD/TC39B/Tricore/Cpu/Trap/IfxCpu_Trap.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Cpu/Trap/IfxCpu_Trap.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Dma/Dma/IfxDma_Dma.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Dma/Dma/IfxDma_Dma.d" -MT"Libraries/iLLD/TC39B/Tricore/Dma/Dma/IfxDma_Dma.o" -o "Libraries/iLLD/TC39B/Tricore/Dma/Dma/IfxDma_Dma.o" "../Libraries/iLLD/TC39B/Tricore/Dma/Dma/IfxDma_Dma.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Dma/Dma/IfxDma_Dma.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Geth/Eth/IfxGeth_Eth.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Geth/Eth/IfxGeth_Eth.d" -MT"Libraries/iLLD/TC39B/Tricore/Geth/Eth/IfxGeth_Eth.o" -o "Libraries/iLLD/TC39B/Tricore/Geth/Eth/IfxGeth_Eth.o" "../Libraries/iLLD/TC39B/Tricore/Geth/Eth/IfxGeth_Eth.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Geth/Eth/IfxGeth_Eth.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ccu6/Timer/IfxCcu6_Timer.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ccu6/Timer/IfxCcu6_Timer.d" -MT"Libraries/iLLD/TC39B/Tricore/Ccu6/Timer/IfxCcu6_Timer.o" -o "Libraries/iLLD/TC39B/Tricore/Ccu6/Timer/IfxCcu6_Timer.o" "../Libraries/iLLD/TC39B/Tricore/Ccu6/Timer/IfxCcu6_Timer.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ccu6/Timer/IfxCcu6_Timer.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Gtm/Pwm/IfxGtm_Pwm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Gtm/Pwm/IfxGtm_Pwm.d" -MT"Libraries/iLLD/TC39B/Tricore/Gtm/Pwm/IfxGtm_Pwm.o" -o "Libraries/iLLD/TC39B/Tricore/Gtm/Pwm/IfxGtm_Pwm.o" "../Libraries/iLLD/TC39B/Tricore/Gtm/Pwm/IfxGtm_Pwm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Gtm/Pwm/IfxGtm_Pwm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ccu6/TimerWithTrigger/IfxCcu6_TimerWithTrigger.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ccu6/TimerWithTrigger/IfxCcu6_TimerWithTrigger.d" -MT"Libraries/iLLD/TC39B/Tricore/Ccu6/TimerWithTrigger/IfxCcu6_TimerWithTrigger.o" -o "Libraries/iLLD/TC39B/Tricore/Ccu6/TimerWithTrigger/IfxCcu6_TimerWithTrigger.o" "../Libraries/iLLD/TC39B/Tricore/Ccu6/TimerWithTrigger/IfxCcu6_TimerWithTrigger.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ccu6/TimerWithTrigger/IfxCcu6_TimerWithTrigger.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ccu6/Std/IfxCcu6.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ccu6/Std/IfxCcu6.d" -MT"Libraries/iLLD/TC39B/Tricore/Ccu6/Std/IfxCcu6.o" -o "Libraries/iLLD/TC39B/Tricore/Ccu6/Std/IfxCcu6.o" "../Libraries/iLLD/TC39B/Tricore/Ccu6/Std/IfxCcu6.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ccu6/Std/IfxCcu6.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ccu6/TPwm/IfxCcu6_TPwm.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ccu6/TPwm/IfxCcu6_TPwm.d" -MT"Libraries/iLLD/TC39B/Tricore/Ccu6/TPwm/IfxCcu6_TPwm.o" -o "Libraries/iLLD/TC39B/Tricore/Ccu6/TPwm/IfxCcu6_TPwm.o" "../Libraries/iLLD/TC39B/Tricore/Ccu6/TPwm/IfxCcu6_TPwm.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ccu6/TPwm/IfxCcu6_TPwm.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Cpu/Std/IfxCpu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Cpu/Std/IfxCpu.d" -MT"Libraries/iLLD/TC39B/Tricore/Cpu/Std/IfxCpu.o" -o "Libraries/iLLD/TC39B/Tricore/Cpu/Std/IfxCpu.o" "../Libraries/iLLD/TC39B/Tricore/Cpu/Std/IfxCpu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Cpu/Std/IfxCpu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ccu6/Icu/IfxCcu6_Icu.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ccu6/Icu/IfxCcu6_Icu.d" -MT"Libraries/iLLD/TC39B/Tricore/Ccu6/Icu/IfxCcu6_Icu.o" -o "Libraries/iLLD/TC39B/Tricore/Ccu6/Icu/IfxCcu6_Icu.o" "../Libraries/iLLD/TC39B/Tricore/Ccu6/Icu/IfxCcu6_Icu.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ccu6/Icu/IfxCcu6_Icu.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ccu6/PwmBc/IfxCcu6_PwmBc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ccu6/PwmBc/IfxCcu6_PwmBc.d" -MT"Libraries/iLLD/TC39B/Tricore/Ccu6/PwmBc/IfxCcu6_PwmBc.o" -o "Libraries/iLLD/TC39B/Tricore/Ccu6/PwmBc/IfxCcu6_PwmBc.o" "../Libraries/iLLD/TC39B/Tricore/Ccu6/PwmBc/IfxCcu6_PwmBc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ccu6/PwmBc/IfxCcu6_PwmBc.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LowPassPt1F32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LowPassPt1F32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LowPassPt1F32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LowPassPt1F32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LowPassPt1F32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LowPassPt1F32.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Ccu6/PwmHl/IfxCcu6_PwmHl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Ccu6/PwmHl/IfxCcu6_PwmHl.d" -MT"Libraries/iLLD/TC39B/Tricore/Ccu6/PwmHl/IfxCcu6_PwmHl.o" -o "Libraries/iLLD/TC39B/Tricore/Ccu6/PwmHl/IfxCcu6_PwmHl.o" "../Libraries/iLLD/TC39B/Tricore/Ccu6/PwmHl/IfxCcu6_PwmHl.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Ccu6/PwmHl/IfxCcu6_PwmHl.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Asclin/Std/IfxAsclin.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Asclin/Std/IfxAsclin.d" -MT"Libraries/iLLD/TC39B/Tricore/Asclin/Std/IfxAsclin.o" -o "Libraries/iLLD/TC39B/Tricore/Asclin/Std/IfxAsclin.o" "../Libraries/iLLD/TC39B/Tricore/Asclin/Std/IfxAsclin.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Asclin/Std/IfxAsclin.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Time/Ifx_DateTime.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Time/Ifx_DateTime.d" -MT"Libraries/Service/CpuGeneric/SysSe/Time/Ifx_DateTime.o" -o "Libraries/Service/CpuGeneric/SysSe/Time/Ifx_DateTime.o" "../Libraries/Service/CpuGeneric/SysSe/Time/Ifx_DateTime.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Time/Ifx_DateTime.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Asclin/Spi/IfxAsclin_Spi.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Asclin/Spi/IfxAsclin_Spi.d" -MT"Libraries/iLLD/TC39B/Tricore/Asclin/Spi/IfxAsclin_Spi.o" -o "Libraries/iLLD/TC39B/Tricore/Asclin/Spi/IfxAsclin_Spi.o" "../Libraries/iLLD/TC39B/Tricore/Asclin/Spi/IfxAsclin_Spi.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Asclin/Spi/IfxAsclin_Spi.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_IntegralF32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_IntegralF32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_IntegralF32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_IntegralF32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_IntegralF32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_IntegralF32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_BitReverseTable.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_BitReverseTable.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_BitReverseTable.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_BitReverseTable.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_BitReverseTable.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_BitReverseTable.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLSincosF32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLSincosF32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLSincosF32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLSincosF32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLSincosF32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLSincosF32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_AngleTrkF32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_AngleTrkF32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_AngleTrkF32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_AngleTrkF32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_AngleTrkF32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_AngleTrkF32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLinearF32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLinearF32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLinearF32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLinearF32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLinearF32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLinearF32.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Can/Std/IfxCan.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Can/Std/IfxCan.d" -MT"Libraries/iLLD/TC39B/Tricore/Can/Std/IfxCan.o" -o "Libraries/iLLD/TC39B/Tricore/Can/Std/IfxCan.o" "../Libraries/iLLD/TC39B/Tricore/Can/Std/IfxCan.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Can/Std/IfxCan.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32_Table.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32_Table.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32_Table.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32_Table.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32_Table.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32_Table.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Cf32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Cf32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Cf32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Cf32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Cf32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Cf32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32_Table.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32_Table.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32_Table.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32_Table.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32_Table.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32_Table.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_RampF32.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_RampF32.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_RampF32.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_RampF32.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_RampF32.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_RampF32.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_BlackmanHarrisTable.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_BlackmanHarrisTable.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_BlackmanHarrisTable.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_BlackmanHarrisTable.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_BlackmanHarrisTable.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_BlackmanHarrisTable.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/General/Ifx_GlobalResources.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/General/Ifx_GlobalResources.d" -MT"Libraries/Service/CpuGeneric/SysSe/General/Ifx_GlobalResources.o" -o "Libraries/Service/CpuGeneric/SysSe/General/Ifx_GlobalResources.o" "../Libraries/Service/CpuGeneric/SysSe/General/Ifx_GlobalResources.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/General/Ifx_GlobalResources.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Bsp/Assert.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Bsp/Assert.d" -MT"Libraries/Service/CpuGeneric/SysSe/Bsp/Assert.o" -o "Libraries/Service/CpuGeneric/SysSe/Bsp/Assert.o" "../Libraries/Service/CpuGeneric/SysSe/Bsp/Assert.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Bsp/Assert.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Asclin/Asc/IfxAsclin_Asc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Asclin/Asc/IfxAsclin_Asc.d" -MT"Libraries/iLLD/TC39B/Tricore/Asclin/Asc/IfxAsclin_Asc.o" -o "Libraries/iLLD/TC39B/Tricore/Asclin/Asc/IfxAsclin_Asc.o" "../Libraries/iLLD/TC39B/Tricore/Asclin/Asc/IfxAsclin_Asc.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Asclin/Asc/IfxAsclin_Asc.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_HannTable.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_HannTable.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_HannTable.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_HannTable.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_HannTable.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_HannTable.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Pos.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Pos.d" -MT"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Pos.o" -o "Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Pos.o" "../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Pos.c"
+Finished building: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Pos.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_DPipe.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_DPipe.d" -MT"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_DPipe.o" -o "Libraries/Service/CpuGeneric/StdIf/IfxStdIf_DPipe.o" "../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_DPipe.c"
+Finished building: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_DPipe.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Console.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Console.d" -MT"Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Console.o" -o "Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Console.o" "../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Console.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Console.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_PwmHl.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_PwmHl.d" -MT"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_PwmHl.o" -o "Libraries/Service/CpuGeneric/StdIf/IfxStdIf_PwmHl.o" "../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_PwmHl.c"
+Finished building: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_PwmHl.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/If/SpiIf.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/If/SpiIf.d" -MT"Libraries/Service/CpuGeneric/If/SpiIf.o" -o "Libraries/Service/CpuGeneric/If/SpiIf.o" "../Libraries/Service/CpuGeneric/If/SpiIf.c"
+Finished building: ../Libraries/Service/CpuGeneric/If/SpiIf.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Crc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Crc.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Crc.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Crc.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Crc.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Crc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Can/Can/IfxCan_Can.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Can/Can/IfxCan_Can.d" -MT"Libraries/iLLD/TC39B/Tricore/Can/Can/IfxCan_Can.o" -o "Libraries/iLLD/TC39B/Tricore/Can/Can/IfxCan_Can.o" "../Libraries/iLLD/TC39B/Tricore/Can/Can/IfxCan_Can.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Can/Can/IfxCan_Can.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Timer.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Timer.d" -MT"Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Timer.o" -o "Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Timer.o" "../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Timer.c"
+Finished building: ../Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Timer.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Bsp/Bsp.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Bsp/Bsp.d" -MT"Libraries/Service/CpuGeneric/SysSe/Bsp/Bsp.o" -o "Libraries/Service/CpuGeneric/SysSe/Bsp/Bsp.o" "../Libraries/Service/CpuGeneric/SysSe/Bsp/Bsp.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Bsp/Bsp.c
+ 
+Building file: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerDcc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Platform/Tricore/Compilers/CompilerDcc.d" -MT"Libraries/Infra/Platform/Tricore/Compilers/CompilerDcc.o" -o "Libraries/Infra/Platform/Tricore/Compilers/CompilerDcc.o" "../Libraries/Infra/Platform/Tricore/Compilers/CompilerDcc.c"
+Finished building: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerDcc.c
+ 
+Building file: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerGhs.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Platform/Tricore/Compilers/CompilerGhs.d" -MT"Libraries/Infra/Platform/Tricore/Compilers/CompilerGhs.o" -o "Libraries/Infra/Platform/Tricore/Compilers/CompilerGhs.o" "../Libraries/Infra/Platform/Tricore/Compilers/CompilerGhs.c"
+Finished building: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerGhs.c
+ 
+Building file: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerGnuc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Platform/Tricore/Compilers/CompilerGnuc.d" -MT"Libraries/Infra/Platform/Tricore/Compilers/CompilerGnuc.o" -o "Libraries/Infra/Platform/Tricore/Compilers/CompilerGnuc.o" "../Libraries/Infra/Platform/Tricore/Compilers/CompilerGnuc.c"
+Finished building: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerGnuc.c
+ 
+Building file: ../Libraries/iLLD/TC39B/Tricore/Asclin/Lin/IfxAsclin_Lin.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/iLLD/TC39B/Tricore/Asclin/Lin/IfxAsclin_Lin.d" -MT"Libraries/iLLD/TC39B/Tricore/Asclin/Lin/IfxAsclin_Lin.o" -o "Libraries/iLLD/TC39B/Tricore/Asclin/Lin/IfxAsclin_Lin.o" "../Libraries/iLLD/TC39B/Tricore/Asclin/Lin/IfxAsclin_Lin.c"
+Finished building: ../Libraries/iLLD/TC39B/Tricore/Asclin/Lin/IfxAsclin_Lin.c
+ 
+Building file: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerTasking.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Platform/Tricore/Compilers/CompilerTasking.d" -MT"Libraries/Infra/Platform/Tricore/Compilers/CompilerTasking.o" -o "Libraries/Infra/Platform/Tricore/Compilers/CompilerTasking.o" "../Libraries/Infra/Platform/Tricore/Compilers/CompilerTasking.c"
+Finished building: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerTasking.c
+ 
+Building file: ../Configurations/Debug/sync_on_halt.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Configurations/Debug/sync_on_halt.d" -MT"Configurations/Debug/sync_on_halt.o" -o "Configurations/Debug/sync_on_halt.o" "../Configurations/Debug/sync_on_halt.c"
+Finished building: ../Configurations/Debug/sync_on_halt.c
+ 
+Building file: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerGcc.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Platform/Tricore/Compilers/CompilerGcc.d" -MT"Libraries/Infra/Platform/Tricore/Compilers/CompilerGcc.o" -o "Libraries/Infra/Platform/Tricore/Compilers/CompilerGcc.o" "../Libraries/Infra/Platform/Tricore/Compilers/CompilerGcc.c"
+Finished building: ../Libraries/Infra/Platform/Tricore/Compilers/CompilerGcc.c
+ 
+Building file: ../Configurations/Ifx_Cfg_SswBmhd.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Configurations/Ifx_Cfg_SswBmhd.d" -MT"Configurations/Ifx_Cfg_SswBmhd.o" -o "Configurations/Ifx_Cfg_SswBmhd.o" "../Configurations/Ifx_Cfg_SswBmhd.c"
+Finished building: ../Configurations/Ifx_Cfg_SswBmhd.c
+ 
+Building file: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc1.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc1.d" -MT"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc1.o" -o "Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc1.o" "../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc1.c"
+Finished building: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc1.c
+ 
+Building file: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc2.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc2.d" -MT"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc2.o" -o "Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc2.o" "../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc2.c"
+Finished building: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc2.c
+ 
+Building file: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc4.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc4.d" -MT"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc4.o" -o "Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc4.o" "../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc4.c"
+Finished building: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc4.c
+ 
+Building file: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc0.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc0.d" -MT"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc0.o" -o "Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc0.o" "../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc0.c"
+Finished building: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc0.c
+ 
+Building file: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc3.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc3.d" -MT"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc3.o" -o "Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc3.o" "../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc3.c"
+Finished building: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc3.c
+ 
+Building file: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc5.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc5.d" -MT"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc5.o" -o "Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc5.o" "../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc5.c"
+Finished building: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc5.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_TwiddleTable.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_TwiddleTable.d" -MT"Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_TwiddleTable.o" -o "Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_TwiddleTable.o" "../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_TwiddleTable.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_TwiddleTable.c
+ 
+Building file: ../Cpu0_Main.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Cpu0_Main.d" -MT"Cpu0_Main.o" -o "Cpu0_Main.o" "../Cpu0_Main.c"
+Finished building: ../Cpu0_Main.c
+ 
+Building file: ../Cpu1_Main.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Cpu1_Main.d" -MT"Cpu1_Main.o" -o "Cpu1_Main.o" "../Cpu1_Main.c"
+Finished building: ../Cpu1_Main.c
+ 
+Building file: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Infra.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Infra.d" -MT"Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Infra.o" -o "Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Infra.o" "../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Infra.c"
+Finished building: ../Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Infra.c
+ 
+Building file: ../Cpu2_Main.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Cpu2_Main.d" -MT"Cpu2_Main.o" -o "Cpu2_Main.o" "../Cpu2_Main.c"
+Finished building: ../Cpu2_Main.c
+ 
+Building file: ../CCU6_Interrupt.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"CCU6_Interrupt.d" -MT"CCU6_Interrupt.o" -o "CCU6_Interrupt.o" "../CCU6_Interrupt.c"
+Finished building: ../CCU6_Interrupt.c
+ 
+Building file: ../Cpu3_Main.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Cpu3_Main.d" -MT"Cpu3_Main.o" -o "Cpu3_Main.o" "../Cpu3_Main.c"
+Finished building: ../Cpu3_Main.c
+ 
+Building file: ../Configurations/Ifx_Cfg_Ssw.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Configurations/Ifx_Cfg_Ssw.d" -MT"Configurations/Ifx_Cfg_Ssw.o" -o "Configurations/Ifx_Cfg_Ssw.o" "../Configurations/Ifx_Cfg_Ssw.c"
+Finished building: ../Configurations/Ifx_Cfg_Ssw.c
+ 
+Building file: ../Cpu4_Main.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Cpu4_Main.d" -MT"Cpu4_Main.o" -o "Cpu4_Main.o" "../Cpu4_Main.c"
+Finished building: ../Cpu4_Main.c
+ 
+Building file: ../Cpu5_Main.c
+Invoking: AURIX GCC Compiler
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Cpu5_Main.d" -MT"Cpu5_Main.o" -o "Cpu5_Main.o" "../Cpu5_Main.c"
+Finished building: ../Cpu5_Main.c
+ 
+Building file: ../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c
+../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c: In function 'Ifx_Shell_cmdEscapeProcess':
+../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c:1283:17: warning: 'strncpy' accessing between 0 and 65534 bytes at offsets [-32768, 32767] and [-32767, 32768] may overlap up to 65533 bytes at offset [-32767, 32765] [-Wrestrict]
+Invoking: AURIX GCC Compiler
+ 1283 |                 strncpy(&cmdStr[Cmd->cursor], &cmdStr[Cmd->cursor + 1], Cmd->length - Cmd->cursor - 1);
+      |                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c: In function 'Ifx_Shell_process':
+../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c:510:21: warning: 'strncpy' accessing between 0 and 65535 bytes at offsets [-32769, 32766] and [-32768, 32767] may overlap up to 128 bytes at offset [-32768, -32641] [-Wrestrict]
+  510 |                     strncpy(&cmdStr[Cmd->cursor - 1], &cmdStr[Cmd->cursor], Cmd->length - Cmd->cursor);
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tricore-elf-gcc -std=c99 "@C:/Users/ctlch/AURIX-v1.9.8-workspace/explore_gcc/TriCore Release (GCC)/AURIX_GCC_Compiler-Include_paths__-I_.opt" -O3 -Wall -c -fmessage-length=0 -fno-common -fstrict-volatile-bitfields -fdata-sections -ffunction-sections -mtc162 -MMD -MP -MF"Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.d" -MT"Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.o" -o "Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.o" "../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c"
+Finished building: ../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c
+ 
+Building target: explore_gcc.elf
+Invoking: AURIX G++ Linker
+tricore-elf-g++ -nocrt0 -T"../Lcf_Gnuc_Tricore_Tc.lsl" -Wl,--gc-sections -mtc162 -o "explore_gcc.elf"  ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxAsclin_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCan_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxCcu6_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxDmu_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEdsadc_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEray_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxEvadc_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGeth_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGpt12_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxGtm_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxHspdm_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxI2c_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxMsc_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPms_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPort_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxPsi5s_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxQspi_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxRif_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxScu_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSdmmc_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSent_PinMap.o ./Libraries/iLLD/TC39B/Tricore/_PinMap/IfxSmu_PinMap.o  ./Libraries/iLLD/TC39B/Tricore/_Lib/InternalMux/Ifx_InternalMux.o  ./Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.asm.o ./Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_CircularBuffer.o ./Libraries/iLLD/TC39B/Tricore/_Lib/DataHandling/Ifx_Fifo.o  ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxAsclin_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxCan_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxCcu6_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxCif_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxCpu_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxDma_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxEmem_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxEray_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxEvadc_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxFlash_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxGeth_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxGtm_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxHspdm_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxHssl_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxI2c_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxMsc_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxMtu_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxPort_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxPsi5_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxQspi_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxRif_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxScu_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxSent_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxSmu_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxSpu_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxSrc_cfg.o ./Libraries/iLLD/TC39B/Tricore/_Impl/IfxStm_cfg.o  ./Libraries/iLLD/TC39B/Tricore/Stm/Timer/IfxStm_Timer.o  ./Libraries/iLLD/TC39B/Tricore/Stm/Std/IfxStm.o  ./Libraries/iLLD/TC39B/Tricore/Src/Std/IfxSrc.o  ./Libraries/iLLD/TC39B/Tricore/Spu/Std/IfxSpu.o  ./Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmu.o ./Libraries/iLLD/TC39B/Tricore/Smu/Std/IfxSmuStdby.o  ./Libraries/iLLD/TC39B/Tricore/Smu/Smu/IfxSmu_Smu.o  ./Libraries/iLLD/TC39B/Tricore/Sent/Std/IfxSent.o  ./Libraries/iLLD/TC39B/Tricore/Sent/Sent/IfxSent_Sent.o  ./Libraries/iLLD/TC39B/Tricore/Sdmmc/Std/IfxSdmmc.o  ./Libraries/iLLD/TC39B/Tricore/Sdmmc/Sd/IfxSdmmc_Sd.o  ./Libraries/iLLD/TC39B/Tricore/Sdmmc/Emmc/IfxSdmmc_Emmc.o  ./Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuCcu.o ./Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuEru.o ./Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuLbist.o ./Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuRcu.o ./Libraries/iLLD/TC39B/Tricore/Scu/Std/IfxScuWdt.o  ./Libraries/iLLD/TC39B/Tricore/Rif/Std/IfxRif.o  ./Libraries/iLLD/TC39B/Tricore/Rif/Rif/IfxRif_Rif.o  ./Libraries/iLLD/TC39B/Tricore/Qspi/Std/IfxQspi.o  ./Libraries/iLLD/TC39B/Tricore/Qspi/SpiSlave/IfxQspi_SpiSlave.o  ./Libraries/iLLD/TC39B/Tricore/Qspi/SpiMaster/IfxQspi_SpiMaster.o  ./Libraries/iLLD/TC39B/Tricore/Psi5s/Std/IfxPsi5s.o  ./Libraries/iLLD/TC39B/Tricore/Psi5s/Psi5s/IfxPsi5s_Psi5s.o  ./Libraries/iLLD/TC39B/Tricore/Psi5/Std/IfxPsi5.o  ./Libraries/iLLD/TC39B/Tricore/Psi5/Psi5/IfxPsi5_Psi5.o  ./Libraries/iLLD/TC39B/Tricore/Port/Std/IfxPort.o  ./Libraries/iLLD/TC39B/Tricore/Port/Io/IfxPort_Io.o  ./Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsEvr.o ./Libraries/iLLD/TC39B/Tricore/Pms/Std/IfxPmsPm.o  ./Libraries/iLLD/TC39B/Tricore/Mtu/Std/IfxMtu.o  ./Libraries/iLLD/TC39B/Tricore/Msc/Std/IfxMsc.o  ./Libraries/iLLD/TC39B/Tricore/Msc/Msc/IfxMsc_Msc.o  ./Libraries/iLLD/TC39B/Tricore/Iom/Std/IfxIom.o  ./Libraries/iLLD/TC39B/Tricore/Iom/Iom/IfxIom_Iom.o  ./Libraries/iLLD/TC39B/Tricore/Iom/Driver/IfxIom_Driver.o  ./Libraries/iLLD/TC39B/Tricore/I2c/Std/IfxI2c.o  ./Libraries/iLLD/TC39B/Tricore/I2c/I2c/IfxI2c_I2c.o  ./Libraries/iLLD/TC39B/Tricore/Hssl/Std/IfxHssl.o  ./Libraries/iLLD/TC39B/Tricore/Hssl/Hssl/IfxHssl_Hssl.o  ./Libraries/iLLD/TC39B/Tricore/Hspdm/Std/IfxHspdm.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Trig/IfxGtm_Trig.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Timer/IfxGtm_Tom_Timer.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Tom/PwmHl/IfxGtm_Tom_PwmHl.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Pwm/IfxGtm_Tom_Pwm.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Tom/Dtm_PwmHl/IfxGtm_Tom_Dtm_PwmHl.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Tim/Timer/IfxGtm_Tim_Timer.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Tim/In/IfxGtm_Tim_In.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Atom.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Cmu.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dpll.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Dtm.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Psm.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Spe.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tbu.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tim.o ./Libraries/iLLD/TC39B/Tricore/Gtm/Std/IfxGtm_Tom.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Pwm/IfxGtm_Pwm.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Timer/IfxGtm_Atom_Timer.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Atom/PwmHl/IfxGtm_Atom_PwmHl.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Pwm/IfxGtm_Atom_Pwm.o  ./Libraries/iLLD/TC39B/Tricore/Gtm/Atom/Dtm_PwmHl/IfxGtm_Atom_Dtm_PwmHl.o  ./Libraries/iLLD/TC39B/Tricore/Gpt12/Std/IfxGpt12.o  ./Libraries/iLLD/TC39B/Tricore/Gpt12/IncrEnc/IfxGpt12_IncrEnc.o  ./Libraries/iLLD/TC39B/Tricore/Geth/Std/IfxGeth.o  ./Libraries/iLLD/TC39B/Tricore/Geth/Eth/IfxGeth_Eth.o  ./Libraries/iLLD/TC39B/Tricore/Flash/Std/IfxFlash.o  ./Libraries/iLLD/TC39B/Tricore/Fce/Std/IfxFce.o  ./Libraries/iLLD/TC39B/Tricore/Fce/Crc/IfxFce_Crc.o  ./Libraries/iLLD/TC39B/Tricore/Evadc/Std/IfxEvadc.o  ./Libraries/iLLD/TC39B/Tricore/Evadc/Adc/IfxEvadc_Adc.o  ./Libraries/iLLD/TC39B/Tricore/Eray/Std/IfxEray.o  ./Libraries/iLLD/TC39B/Tricore/Eray/Eray/IfxEray_Eray.o  ./Libraries/iLLD/TC39B/Tricore/Emem/Std/IfxEmem.o  ./Libraries/iLLD/TC39B/Tricore/Edsadc/Std/IfxEdsadc.o  ./Libraries/iLLD/TC39B/Tricore/Edsadc/Edsadc/IfxEdsadc_Edsadc.o  ./Libraries/iLLD/TC39B/Tricore/Ebu/Std/IfxEbu.o  ./Libraries/iLLD/TC39B/Tricore/Ebu/Sram/IfxEbu_Sram.o  ./Libraries/iLLD/TC39B/Tricore/Ebu/Dram/IfxEbu_Dram.o  ./Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSt/IfxEbu_BFlashSt.o  ./Libraries/iLLD/TC39B/Tricore/Ebu/BFlashSpansion/IfxEbu_BFlashSpansion.o  ./Libraries/iLLD/TC39B/Tricore/Dts/Std/IfxDts.o  ./Libraries/iLLD/TC39B/Tricore/Dts/Dts/IfxDts_Dts.o  ./Libraries/iLLD/TC39B/Tricore/Dma/Std/IfxDma.o  ./Libraries/iLLD/TC39B/Tricore/Dma/Dma/IfxDma_Dma.o  ./Libraries/iLLD/TC39B/Tricore/Cpu/Trap/IfxCpu_Trap.o  ./Libraries/iLLD/TC39B/Tricore/Cpu/Std/IfxCpu.o  ./Libraries/iLLD/TC39B/Tricore/Cpu/Irq/IfxCpu_Irq.o  ./Libraries/iLLD/TC39B/Tricore/Convctrl/Std/IfxConvctrl.o  ./Libraries/iLLD/TC39B/Tricore/Ccu6/TimerWithTrigger/IfxCcu6_TimerWithTrigger.o  ./Libraries/iLLD/TC39B/Tricore/Ccu6/Timer/IfxCcu6_Timer.o  ./Libraries/iLLD/TC39B/Tricore/Ccu6/TPwm/IfxCcu6_TPwm.o  ./Libraries/iLLD/TC39B/Tricore/Ccu6/Std/IfxCcu6.o  ./Libraries/iLLD/TC39B/Tricore/Ccu6/PwmHl/IfxCcu6_PwmHl.o  ./Libraries/iLLD/TC39B/Tricore/Ccu6/PwmBc/IfxCcu6_PwmBc.o  ./Libraries/iLLD/TC39B/Tricore/Ccu6/Icu/IfxCcu6_Icu.o  ./Libraries/iLLD/TC39B/Tricore/Can/Std/IfxCan.o  ./Libraries/iLLD/TC39B/Tricore/Can/Can/IfxCan_Can.o  ./Libraries/iLLD/TC39B/Tricore/Asclin/Std/IfxAsclin.o  ./Libraries/iLLD/TC39B/Tricore/Asclin/Spi/IfxAsclin_Spi.o  ./Libraries/iLLD/TC39B/Tricore/Asclin/Lin/IfxAsclin_Lin.o  ./Libraries/iLLD/TC39B/Tricore/Asclin/Asc/IfxAsclin_Asc.o  ./Libraries/Service/CpuGeneric/SysSe/Time/Ifx_DateTime.o  ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_AngleTrkF32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Cf32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_Crc.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_BitReverseTable.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_FftF32_TwiddleTable.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_IntegralF32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LowPassPt1F32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutAtan2F32_Table.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLSincosF32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutLinearF32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_LutSincosF32_Table.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_RampF32.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_BlackmanHarrisTable.o ./Libraries/Service/CpuGeneric/SysSe/Math/Ifx_WndF32_HannTable.o  ./Libraries/Service/CpuGeneric/SysSe/General/Ifx_GlobalResources.o  ./Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Console.o ./Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.o  ./Libraries/Service/CpuGeneric/SysSe/Bsp/Assert.o ./Libraries/Service/CpuGeneric/SysSe/Bsp/Bsp.o  ./Libraries/Service/CpuGeneric/StdIf/IfxStdIf_DPipe.o ./Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Pos.o ./Libraries/Service/CpuGeneric/StdIf/IfxStdIf_PwmHl.o ./Libraries/Service/CpuGeneric/StdIf/IfxStdIf_Timer.o  ./Libraries/Service/CpuGeneric/If/SpiIf.o  ./Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Infra.o ./Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc0.o ./Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc1.o ./Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc2.o ./Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc3.o ./Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc4.o ./Libraries/Infra/Ssw/TC39B/Tricore/Ifx_Ssw_Tc5.o  ./Libraries/Infra/Platform/Tricore/Compilers/CompilerDcc.o ./Libraries/Infra/Platform/Tricore/Compilers/CompilerGcc.o ./Libraries/Infra/Platform/Tricore/Compilers/CompilerGhs.o ./Libraries/Infra/Platform/Tricore/Compilers/CompilerGnuc.o ./Libraries/Infra/Platform/Tricore/Compilers/CompilerTasking.o  ./Configurations/Debug/sync_on_halt.o  ./Configurations/Ifx_Cfg_Ssw.o ./Configurations/Ifx_Cfg_SswBmhd.o  ./CCU6_Interrupt.o ./Cpu0_Main.o ./Cpu1_Main.o ./Cpu2_Main.o ./Cpu3_Main.o ./Cpu4_Main.o ./Cpu5_Main.o 
+Finished building target: explore_gcc.elf
+ 
+c:/infineon/aurix-studio-1.9.8/tools/compilers/tricore-gcc11/bin/../lib/gcc/tricore-elf/11.3.1/../../../../tricore-elf/bin/ld.exe: warning: explore_gcc.elf has a LOAD segment with RWX permissions
+c:/infineon/aurix-studio-1.9.8/tools/compilers/tricore-gcc11/bin/../lib/gcc/tricore-elf/11.3.1/../../../../tricore-elf/bin/ld.exe: warning: explore_gcc.elf has a LOAD segment with RWX permissions
+c:/infineon/aurix-studio-1.9.8/tools/compilers/tricore-gcc11/bin/../lib/gcc/tricore-elf/11.3.1/../../../../tricore-elf/bin/ld.exe: warning: explore_gcc.elf has a LOAD segment with RWX permissions
+c:/infineon/aurix-studio-1.9.8/tools/compilers/tricore-gcc11/bin/../lib/gcc/tricore-elf/11.3.1/../../../../tricore-elf/bin/ld.exe: warning: explore_gcc.elf has a LOAD segment with RWX permissions
+c:/infineon/aurix-studio-1.9.8/tools/compilers/tricore-gcc11/bin/../lib/gcc/tricore-elf/11.3.1/../../../../tricore-elf/bin/ld.exe: warning: explore_gcc.elf has a LOAD segment with RWX permissions
+c:/infineon/aurix-studio-1.9.8/tools/compilers/tricore-gcc11/bin/../lib/gcc/tricore-elf/11.3.1/../../../../tricore-elf/bin/ld.exe: warning: explore_gcc.elf has a LOAD segment with RWX permissions
+Invoking: AURIX Print Size
+tricore-elf-size  --format=berkeley "explore_gcc.elf"
+   text	   data	    bss	    dec	    hex	filename
+  17792	     32	  71736	  89560	  15dd8	explore_gcc.elf
+Finished building: explore_gcc.siz
+ 
+Invoking: AURIX Object Copy
+tricore-elf-objcopy -O ihex "explore_gcc.elf" "explore_gcc.hex"
+Finished building: explore_gcc.hex
+ 
+Invoking: AURIX Create Listing
+tricore-elf-objdump -h -S "explore_gcc.elf" > "explore_gcc.lst"
+Finished building: explore_gcc.lst
+ 
+
+09:43:11 Build Finished. 0 errors, 10 warnings. (took 15s.927ms)
+
